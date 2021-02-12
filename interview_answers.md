@@ -7,4 +7,4 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 3. Define stateful logic.
 
-4. What are the three step of creating a successful test? What is done in each phase?
+4. What are the three step of creating a successful test? What is done in each phase? Arrange, Act, Assert
